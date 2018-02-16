@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# referencia https://www.youtube.com/channel/UCEn6kONg6EC_Ylh0RlInsMw
+# referencia https://www.youtube.com/watch?v=h5z8jrW9CtY
 # arquivo para estudo
 
 
